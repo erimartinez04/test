@@ -1,4 +1,5 @@
 {
+    "@@locale": "en_US",
     "title":"Flutter App English",
     "someText":"You have pushed the button this many times:"
 }
